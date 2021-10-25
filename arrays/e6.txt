@@ -1,0 +1,3 @@
+The problem is that you are trying to index an array using a string.
+You can convert the array to a hash. Another option would be
+names[names.index("margaret")] = "jody" or names[3] = "jody"
