@@ -1,0 +1,1 @@
+Exception handling prevents the code from halting when an exception is encountered.

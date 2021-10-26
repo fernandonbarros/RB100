@@ -1,0 +1,1 @@
+Because the method is expecting a variable and not a block.
