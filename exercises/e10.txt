@@ -1,0 +1,4 @@
+Yes. Example:
+a = [{hi: "Hello}]
+
+b = {hi: [1,2]}
